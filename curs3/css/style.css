@@ -1,0 +1,37 @@
+h2{
+    color: blue; 
+ }
+ p{
+    color:green;
+ }
+ div{
+    width:45%;
+    border:2px solid #000000;
+    float:left;
+    padding:10px;
+    margin:5px;
+ }
+#stanga{
+    background-color:orange;
+ }
+#dreapta{
+    background-color:orange;
+}
+.p1{
+   color: white; 
+}
+.p2{
+    color:white;
+}
+.p3{
+    font-size: 30px;
+}
+#bottom{
+    width:100%;
+}
+#bottom>p{
+    color:red;
+}
+#bottom>article>p{
+    color:blue;
+}
